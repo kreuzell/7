@@ -141,14 +141,14 @@ const functionVerif = (token, otpNum) => new Promise((resolve, reject) => {
   ╚═══╝   ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝╚═╝ ╚═════╝╚══════╝    ╚═════╝  ╚═════╝    ╚═╝                                                                                                            
 `);
 
-    const myReff = "DSO5A3HA";
+    const myReff = "LJXFGXWZ";
     console.log('');
 
     while (true) {
     
         // Signup
     
-        const emailRndm = `${rndEmail(10)}@renate-date.de`; // Change domain here !
+        const emailRndm = `${rndEmail(10)}@email-brasil.com`; // Change domain here !
         const username = emailRndm.split('@')[0];
         const domain = emailRndm.split('@')[1];
     
